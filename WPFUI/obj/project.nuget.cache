@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jB+TrehJXTo7pnTfOBlhcJ8juDDi0ILbuJln3cXOr2SlR07TAg0xEaqqsc3eRdLrFBCLa+OcQ5qP/x+xso3TBA==",
+  "success": true,
+  "projectFilePath": "D:\\www\\Game-RPG\\WPFUI\\WPFUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
